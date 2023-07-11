@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CGO_Buoi04", "CGO_Buoi04.cs
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CGO_Buoi04_TimGiaTri", "..\CGO_Buoi04_TimGiaTri\CGO_Buoi04_TimGiaTri.csproj", "{0CAF9822-52F3-4D3E-B880-DD670573B3FF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CGO_Buoi04_TimGiaTriLonNhat", "..\CGO_Buoi04_TimGiaTriLonNhat\CGO_Buoi04_TimGiaTriLonNhat.csproj", "{CC0CF2BB-898D-45D0-8A49-DCF272A992BA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{0CAF9822-52F3-4D3E-B880-DD670573B3FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0CAF9822-52F3-4D3E-B880-DD670573B3FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0CAF9822-52F3-4D3E-B880-DD670573B3FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC0CF2BB-898D-45D0-8A49-DCF272A992BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC0CF2BB-898D-45D0-8A49-DCF272A992BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC0CF2BB-898D-45D0-8A49-DCF272A992BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC0CF2BB-898D-45D0-8A49-DCF272A992BA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,8 @@
+E:\GymCode\CGO_BasicCSharp\CGO_Buoi04_TimGiaTriLonNhat\bin\Debug\CGO_Buoi04_TimGiaTriLonNhat.exe.config
+E:\GymCode\CGO_BasicCSharp\CGO_Buoi04_TimGiaTriLonNhat\bin\Debug\CGO_Buoi04_TimGiaTriLonNhat.exe
+E:\GymCode\CGO_BasicCSharp\CGO_Buoi04_TimGiaTriLonNhat\bin\Debug\CGO_Buoi04_TimGiaTriLonNhat.pdb
+E:\GymCode\CGO_BasicCSharp\CGO_Buoi04_TimGiaTriLonNhat\obj\Debug\CGO_Buoi04_TimGiaTriLonNhat.csproj.AssemblyReference.cache
+E:\GymCode\CGO_BasicCSharp\CGO_Buoi04_TimGiaTriLonNhat\obj\Debug\CGO_Buoi04_TimGiaTriLonNhat.csproj.SuggestedBindingRedirects.cache
+E:\GymCode\CGO_BasicCSharp\CGO_Buoi04_TimGiaTriLonNhat\obj\Debug\CGO_Buoi04_TimGiaTriLonNhat.csproj.CoreCompileInputs.cache
+E:\GymCode\CGO_BasicCSharp\CGO_Buoi04_TimGiaTriLonNhat\obj\Debug\CGO_Buoi04_TimGiaTriLonNhat.exe
+E:\GymCode\CGO_BasicCSharp\CGO_Buoi04_TimGiaTriLonNhat\obj\Debug\CGO_Buoi04_TimGiaTriLonNhat.pdb
