@@ -1,0 +1,8 @@
+E:\GymCode\CGO_BasicCSharp\CauLenhLapWhile\bin\Debug\CauLenhLapWhile.exe.config
+E:\GymCode\CGO_BasicCSharp\CauLenhLapWhile\bin\Debug\CauLenhLapWhile.exe
+E:\GymCode\CGO_BasicCSharp\CauLenhLapWhile\bin\Debug\CauLenhLapWhile.pdb
+E:\GymCode\CGO_BasicCSharp\CauLenhLapWhile\obj\Debug\CauLenhLapWhile.csproj.AssemblyReference.cache
+E:\GymCode\CGO_BasicCSharp\CauLenhLapWhile\obj\Debug\CauLenhLapWhile.csproj.SuggestedBindingRedirects.cache
+E:\GymCode\CGO_BasicCSharp\CauLenhLapWhile\obj\Debug\CauLenhLapWhile.csproj.CoreCompileInputs.cache
+E:\GymCode\CGO_BasicCSharp\CauLenhLapWhile\obj\Debug\CauLenhLapWhile.exe
+E:\GymCode\CGO_BasicCSharp\CauLenhLapWhile\obj\Debug\CauLenhLapWhile.pdb

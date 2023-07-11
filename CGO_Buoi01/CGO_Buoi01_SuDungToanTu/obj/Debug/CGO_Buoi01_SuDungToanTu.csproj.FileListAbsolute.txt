@@ -1,0 +1,8 @@
+E:\GymCode\CGO_BasicCSharp\CGO_Buoi01\CGO_Buoi01_SuDungToanTu\bin\Debug\CGO_Buoi01_SuDungToanTu.exe.config
+E:\GymCode\CGO_BasicCSharp\CGO_Buoi01\CGO_Buoi01_SuDungToanTu\bin\Debug\CGO_Buoi01_SuDungToanTu.exe
+E:\GymCode\CGO_BasicCSharp\CGO_Buoi01\CGO_Buoi01_SuDungToanTu\bin\Debug\CGO_Buoi01_SuDungToanTu.pdb
+E:\GymCode\CGO_BasicCSharp\CGO_Buoi01\CGO_Buoi01_SuDungToanTu\obj\Debug\CGO_Buoi01_SuDungToanTu.csproj.AssemblyReference.cache
+E:\GymCode\CGO_BasicCSharp\CGO_Buoi01\CGO_Buoi01_SuDungToanTu\obj\Debug\CGO_Buoi01_SuDungToanTu.csproj.SuggestedBindingRedirects.cache
+E:\GymCode\CGO_BasicCSharp\CGO_Buoi01\CGO_Buoi01_SuDungToanTu\obj\Debug\CGO_Buoi01_SuDungToanTu.csproj.CoreCompileInputs.cache
+E:\GymCode\CGO_BasicCSharp\CGO_Buoi01\CGO_Buoi01_SuDungToanTu\obj\Debug\CGO_Buoi01_SuDungToanTu.exe
+E:\GymCode\CGO_BasicCSharp\CGO_Buoi01\CGO_Buoi01_SuDungToanTu\obj\Debug\CGO_Buoi01_SuDungToanTu.pdb

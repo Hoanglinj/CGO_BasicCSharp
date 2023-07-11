@@ -1,0 +1,8 @@
+E:\GymCode\CGO_BasicCSharp\CGO_Buoi02_ƯDungDocSoThanhChu\bin\Debug\CGO_Buoi02_ƯDungDocSoThanhChu.exe.config
+E:\GymCode\CGO_BasicCSharp\CGO_Buoi02_ƯDungDocSoThanhChu\bin\Debug\CGO_Buoi02_ƯDungDocSoThanhChu.exe
+E:\GymCode\CGO_BasicCSharp\CGO_Buoi02_ƯDungDocSoThanhChu\bin\Debug\CGO_Buoi02_ƯDungDocSoThanhChu.pdb
+E:\GymCode\CGO_BasicCSharp\CGO_Buoi02_ƯDungDocSoThanhChu\obj\Debug\CGO_Buoi02_ƯDungDocSoThanhChu.csproj.AssemblyReference.cache
+E:\GymCode\CGO_BasicCSharp\CGO_Buoi02_ƯDungDocSoThanhChu\obj\Debug\CGO_Buoi02_ƯDungDocSoThanhChu.csproj.SuggestedBindingRedirects.cache
+E:\GymCode\CGO_BasicCSharp\CGO_Buoi02_ƯDungDocSoThanhChu\obj\Debug\CGO_Buoi02_ƯDungDocSoThanhChu.csproj.CoreCompileInputs.cache
+E:\GymCode\CGO_BasicCSharp\CGO_Buoi02_ƯDungDocSoThanhChu\obj\Debug\CGO_Buoi02_ƯDungDocSoThanhChu.exe
+E:\GymCode\CGO_BasicCSharp\CGO_Buoi02_ƯDungDocSoThanhChu\obj\Debug\CGO_Buoi02_ƯDungDocSoThanhChu.pdb

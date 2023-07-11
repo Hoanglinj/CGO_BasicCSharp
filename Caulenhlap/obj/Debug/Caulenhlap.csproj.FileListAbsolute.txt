@@ -1,0 +1,8 @@
+E:\GymCode\CGO_BasicCSharp\Caulenhlap\bin\Debug\Caulenhlap.exe.config
+E:\GymCode\CGO_BasicCSharp\Caulenhlap\bin\Debug\Caulenhlap.exe
+E:\GymCode\CGO_BasicCSharp\Caulenhlap\bin\Debug\Caulenhlap.pdb
+E:\GymCode\CGO_BasicCSharp\Caulenhlap\obj\Debug\Caulenhlap.csproj.AssemblyReference.cache
+E:\GymCode\CGO_BasicCSharp\Caulenhlap\obj\Debug\Caulenhlap.csproj.SuggestedBindingRedirects.cache
+E:\GymCode\CGO_BasicCSharp\Caulenhlap\obj\Debug\Caulenhlap.csproj.CoreCompileInputs.cache
+E:\GymCode\CGO_BasicCSharp\Caulenhlap\obj\Debug\Caulenhlap.exe
+E:\GymCode\CGO_BasicCSharp\Caulenhlap\obj\Debug\Caulenhlap.pdb

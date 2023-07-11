@@ -1,0 +1,8 @@
+E:\GymCode\CGO_BasicCSharp\CGO_Buoi01\CGO_Buoi01 HienThiThoiGian\bin\Debug\CGO_Buoi01 HienThiThoiGian.exe.config
+E:\GymCode\CGO_BasicCSharp\CGO_Buoi01\CGO_Buoi01 HienThiThoiGian\bin\Debug\CGO_Buoi01 HienThiThoiGian.exe
+E:\GymCode\CGO_BasicCSharp\CGO_Buoi01\CGO_Buoi01 HienThiThoiGian\bin\Debug\CGO_Buoi01 HienThiThoiGian.pdb
+E:\GymCode\CGO_BasicCSharp\CGO_Buoi01\CGO_Buoi01 HienThiThoiGian\obj\Debug\CGO_Buoi01 HienThiThoiGian.csproj.AssemblyReference.cache
+E:\GymCode\CGO_BasicCSharp\CGO_Buoi01\CGO_Buoi01 HienThiThoiGian\obj\Debug\CGO_Buoi01 HienThiThoiGian.csproj.SuggestedBindingRedirects.cache
+E:\GymCode\CGO_BasicCSharp\CGO_Buoi01\CGO_Buoi01 HienThiThoiGian\obj\Debug\CGO_Buoi01 HienThiThoiGian.csproj.CoreCompileInputs.cache
+E:\GymCode\CGO_BasicCSharp\CGO_Buoi01\CGO_Buoi01 HienThiThoiGian\obj\Debug\CGO_Buoi01 HienThiThoiGian.exe
+E:\GymCode\CGO_BasicCSharp\CGO_Buoi01\CGO_Buoi01 HienThiThoiGian\obj\Debug\CGO_Buoi01 HienThiThoiGian.pdb

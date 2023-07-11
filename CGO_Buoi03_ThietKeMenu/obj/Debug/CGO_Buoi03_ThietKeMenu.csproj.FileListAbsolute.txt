@@ -1,0 +1,8 @@
+E:\GymCode\CGO_BasicCSharp\CGO_Buoi03_ThietKeMenu\obj\Debug\CGO_Buoi03_ThietKeMenu.csproj.AssemblyReference.cache
+E:\GymCode\CGO_BasicCSharp\CGO_Buoi03_ThietKeMenu\obj\Debug\CGO_Buoi03_ThietKeMenu.csproj.SuggestedBindingRedirects.cache
+E:\GymCode\CGO_BasicCSharp\CGO_Buoi03_ThietKeMenu\obj\Debug\CGO_Buoi03_ThietKeMenu.csproj.CoreCompileInputs.cache
+E:\GymCode\CGO_BasicCSharp\CGO_Buoi03_ThietKeMenu\bin\Debug\CGO_Buoi03_ThietKeMenu.exe.config
+E:\GymCode\CGO_BasicCSharp\CGO_Buoi03_ThietKeMenu\bin\Debug\CGO_Buoi03_ThietKeMenu.exe
+E:\GymCode\CGO_BasicCSharp\CGO_Buoi03_ThietKeMenu\bin\Debug\CGO_Buoi03_ThietKeMenu.pdb
+E:\GymCode\CGO_BasicCSharp\CGO_Buoi03_ThietKeMenu\obj\Debug\CGO_Buoi03_ThietKeMenu.exe
+E:\GymCode\CGO_BasicCSharp\CGO_Buoi03_ThietKeMenu\obj\Debug\CGO_Buoi03_ThietKeMenu.pdb

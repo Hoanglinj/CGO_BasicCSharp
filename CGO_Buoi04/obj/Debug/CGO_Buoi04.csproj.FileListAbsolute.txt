@@ -1,0 +1,8 @@
+E:\GymCode\CGO_BasicCSharp\CGO_Buoi04\bin\Debug\CGO_Buoi04.exe.config
+E:\GymCode\CGO_BasicCSharp\CGO_Buoi04\bin\Debug\CGO_Buoi04.exe
+E:\GymCode\CGO_BasicCSharp\CGO_Buoi04\bin\Debug\CGO_Buoi04.pdb
+E:\GymCode\CGO_BasicCSharp\CGO_Buoi04\obj\Debug\CGO_Buoi04.csproj.AssemblyReference.cache
+E:\GymCode\CGO_BasicCSharp\CGO_Buoi04\obj\Debug\CGO_Buoi04.csproj.SuggestedBindingRedirects.cache
+E:\GymCode\CGO_BasicCSharp\CGO_Buoi04\obj\Debug\CGO_Buoi04.csproj.CoreCompileInputs.cache
+E:\GymCode\CGO_BasicCSharp\CGO_Buoi04\obj\Debug\CGO_Buoi04.exe
+E:\GymCode\CGO_BasicCSharp\CGO_Buoi04\obj\Debug\CGO_Buoi04.pdb

@@ -1,0 +1,8 @@
+E:\GymCode\CGO_BasicCSharp\thu\bin\Debug\thu.exe.config
+E:\GymCode\CGO_BasicCSharp\thu\bin\Debug\thu.exe
+E:\GymCode\CGO_BasicCSharp\thu\bin\Debug\thu.pdb
+E:\GymCode\CGO_BasicCSharp\thu\obj\Debug\thu.csproj.AssemblyReference.cache
+E:\GymCode\CGO_BasicCSharp\thu\obj\Debug\thu.csproj.SuggestedBindingRedirects.cache
+E:\GymCode\CGO_BasicCSharp\thu\obj\Debug\thu.csproj.CoreCompileInputs.cache
+E:\GymCode\CGO_BasicCSharp\thu\obj\Debug\thu.exe
+E:\GymCode\CGO_BasicCSharp\thu\obj\Debug\thu.pdb

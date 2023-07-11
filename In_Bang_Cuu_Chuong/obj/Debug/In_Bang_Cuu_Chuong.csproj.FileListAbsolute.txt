@@ -1,0 +1,8 @@
+E:\GymCode\CGO_BasicCSharp\In_Bang_Cuu_Chuong\bin\Debug\In_Bang_Cuu_Chuong.exe.config
+E:\GymCode\CGO_BasicCSharp\In_Bang_Cuu_Chuong\bin\Debug\In_Bang_Cuu_Chuong.exe
+E:\GymCode\CGO_BasicCSharp\In_Bang_Cuu_Chuong\bin\Debug\In_Bang_Cuu_Chuong.pdb
+E:\GymCode\CGO_BasicCSharp\In_Bang_Cuu_Chuong\obj\Debug\In_Bang_Cuu_Chuong.csproj.AssemblyReference.cache
+E:\GymCode\CGO_BasicCSharp\In_Bang_Cuu_Chuong\obj\Debug\In_Bang_Cuu_Chuong.csproj.SuggestedBindingRedirects.cache
+E:\GymCode\CGO_BasicCSharp\In_Bang_Cuu_Chuong\obj\Debug\In_Bang_Cuu_Chuong.csproj.CoreCompileInputs.cache
+E:\GymCode\CGO_BasicCSharp\In_Bang_Cuu_Chuong\obj\Debug\In_Bang_Cuu_Chuong.exe
+E:\GymCode\CGO_BasicCSharp\In_Bang_Cuu_Chuong\obj\Debug\In_Bang_Cuu_Chuong.pdb
