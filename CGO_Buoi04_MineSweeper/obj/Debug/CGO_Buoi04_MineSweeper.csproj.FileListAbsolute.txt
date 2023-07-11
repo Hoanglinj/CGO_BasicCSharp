@@ -1,0 +1,8 @@
+E:\GymCode\CGO_BasicCSharp\CGO_Buoi04_MineSweeper\bin\Debug\CGO_Buoi04_MineSweeper.exe.config
+E:\GymCode\CGO_BasicCSharp\CGO_Buoi04_MineSweeper\bin\Debug\CGO_Buoi04_MineSweeper.exe
+E:\GymCode\CGO_BasicCSharp\CGO_Buoi04_MineSweeper\bin\Debug\CGO_Buoi04_MineSweeper.pdb
+E:\GymCode\CGO_BasicCSharp\CGO_Buoi04_MineSweeper\obj\Debug\CGO_Buoi04_MineSweeper.csproj.AssemblyReference.cache
+E:\GymCode\CGO_BasicCSharp\CGO_Buoi04_MineSweeper\obj\Debug\CGO_Buoi04_MineSweeper.csproj.SuggestedBindingRedirects.cache
+E:\GymCode\CGO_BasicCSharp\CGO_Buoi04_MineSweeper\obj\Debug\CGO_Buoi04_MineSweeper.csproj.CoreCompileInputs.cache
+E:\GymCode\CGO_BasicCSharp\CGO_Buoi04_MineSweeper\obj\Debug\CGO_Buoi04_MineSweeper.exe
+E:\GymCode\CGO_BasicCSharp\CGO_Buoi04_MineSweeper\obj\Debug\CGO_Buoi04_MineSweeper.pdb

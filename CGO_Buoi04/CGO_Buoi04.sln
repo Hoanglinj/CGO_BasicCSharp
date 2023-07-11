@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CGO_Buoi04_TimGiaTri", "..\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CGO_Buoi04_TimGiaTriLonNhat", "..\CGO_Buoi04_TimGiaTriLonNhat\CGO_Buoi04_TimGiaTriLonNhat.csproj", "{CC0CF2BB-898D-45D0-8A49-DCF272A992BA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CGO_Buoi04_MineSweeper", "..\CGO_Buoi04_MineSweeper\CGO_Buoi04_MineSweeper.csproj", "{BEA5BCEC-ADFF-492B-8E77-4AEB16CADDA7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{CC0CF2BB-898D-45D0-8A49-DCF272A992BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC0CF2BB-898D-45D0-8A49-DCF272A992BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC0CF2BB-898D-45D0-8A49-DCF272A992BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEA5BCEC-ADFF-492B-8E77-4AEB16CADDA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEA5BCEC-ADFF-492B-8E77-4AEB16CADDA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEA5BCEC-ADFF-492B-8E77-4AEB16CADDA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEA5BCEC-ADFF-492B-8E77-4AEB16CADDA7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
