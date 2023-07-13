@@ -1,0 +1,8 @@
+E:\GymCode\CGO_BasicCSharp\Bai Tap sap xep giam dan\bin\Debug\Bai Tap sap xep giam dan.exe.config
+E:\GymCode\CGO_BasicCSharp\Bai Tap sap xep giam dan\bin\Debug\Bai Tap sap xep giam dan.exe
+E:\GymCode\CGO_BasicCSharp\Bai Tap sap xep giam dan\bin\Debug\Bai Tap sap xep giam dan.pdb
+E:\GymCode\CGO_BasicCSharp\Bai Tap sap xep giam dan\obj\Debug\Bai Tap sap xep giam dan.csproj.AssemblyReference.cache
+E:\GymCode\CGO_BasicCSharp\Bai Tap sap xep giam dan\obj\Debug\Bai Tap sap xep giam dan.csproj.SuggestedBindingRedirects.cache
+E:\GymCode\CGO_BasicCSharp\Bai Tap sap xep giam dan\obj\Debug\Bai Tap sap xep giam dan.csproj.CoreCompileInputs.cache
+E:\GymCode\CGO_BasicCSharp\Bai Tap sap xep giam dan\obj\Debug\Bai Tap sap xep giam dan.exe
+E:\GymCode\CGO_BasicCSharp\Bai Tap sap xep giam dan\obj\Debug\Bai Tap sap xep giam dan.pdb
