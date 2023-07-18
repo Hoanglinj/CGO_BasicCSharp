@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -23,36 +23,36 @@ namespace CGO_SnakeGame
             bool gameOver, reset, isprinted, horizontal, vertical;
             string dir, pre_dir;
 
-            int high_score = 0; //cap nhat diem cao nhat
-            int typefruit = 1;  //cap nhat gia tri qua
-            List<string> symbolfruit = new List<string>() { "?", "@", "$", "*", "~" }; //doi dang ki tu
-                                                                                       //Hien thi man hinh bat dau
+            int high_score = 0; 
+            int typefruit = 1; 
+            List<string> symbolfruit = new List<string>() { "?", "@", "$", "*", "~" }; 
+                                                                                       
             void ShowBanner()
             {
-                Console.SetWindowSize(width, height + panel); //height còn thêm thông báo panel
+                Console.SetWindowSize(width, height + panel); 
                 Console.ForegroundColor = ConsoleColor.Green;
-                Console.CursorVisible = false;   //ẩn cỏn trỏ nháy
+                Console.CursorVisible = false;  
                 Console.WriteLine("===SNAKE GAME===");
                 Console.WriteLine("Huong dan choi game: ");
                 Console.WriteLine("- Nhan phim bat ky de choi");
                 Console.WriteLine("- Nhan phim P de tam dung choi");
                 Console.WriteLine("- Nhan phim R de choi lai van moi");
                 Console.WriteLine("- Nhan phim Q de ngung choi");
-                //Doi nguoi choi bam phim
-                keypress = Console.ReadKey();    //input key???
+               
+                keypress = Console.ReadKey();    
                 if (keypress.Key == ConsoleKey.Q) Environment.Exit(0);
             }
-            //Cai dat thong so ban dau game
+            
             void Setup()
             {
-                dir = "RIGHT"; pre_dir = ""; //mac dinh di chuyen sang phai
+                dir = "RIGHT"; pre_dir = ""; 
                 score = 0; nTail = 0;
                 gameOver = reset = isprinted = false;
-                headX = 30; //vi tri dau tien con ran (dam bao ko vuot qua width)
-                headY = 10; //vi tri dau tien con ran (dam bao ko vuot qua height)
-                randomQua();//sinh ngau nhien phan qua 
+                headX = 30; 
+                headY = 10; 
+                randomQua();
             }
-            //Sinh ngau nhien diem an qua
+
             void randomQua()
             {
                 if (score < 5) typefruit = 1;
@@ -61,7 +61,7 @@ namespace CGO_SnakeGame
                 fruitX = rand.Next(1, width - 1); 
                 fruitY = rand.Next(1, height - 1);
             }
-            //Cap nhat man hinh khi thao tac
+            
             void Update()
             {
                 while (!gameOver)
@@ -195,13 +195,13 @@ namespace CGO_SnakeGame
                             Console.Write("#");
                         else if (j == 0 || j == width - 1) 
                             Console.Write("#");
-                        else if (fruitX == j && fruitY == i) // qua
+                        else if (fruitX == j && fruitY == i) 
                         {
                             Console.ForegroundColor = ConsoleColor.Red;
-                            Console.Write(symbolfruit[typefruit - 1]); //Phat trien: xuat nhieu dang ki thu theo typeFruit
+                            Console.Write(symbolfruit[typefruit - 1]);
                             Console.ForegroundColor = ConsoleColor.Green;
                         }
-                        else if (headX == j && headY == i) // dau cua con ran
+                        else if (headX == j && headY == i) 
                             Console.Write("()");
                         else
                         {   //than con ran
@@ -211,17 +211,16 @@ namespace CGO_SnakeGame
                                 if (TailX[k] == j && TailY[k] == i)
                                 {
                                     Console.ForegroundColor = ConsoleColor.Green;
-                                    Console.Write("[]"); //than con ran
+                                    Console.Write("[]"); 
                                     Console.ForegroundColor = ConsoleColor.Green;
                                     isprinted = true;
                                 }
                             }
-                            if (!isprinted) Console.Write(" "); //o trong khung hinh
+                            if (!isprinted) Console.Write(" "); 
                         }
                     }
-                    Console.WriteLine(); //xuong dong cuoi hang
+                    Console.WriteLine(); 
                 }
-                //Hien thi panel thong tin
                 Console.ForegroundColor = ConsoleColor.Green;
                 Console.WriteLine("Diem cua ban: {0} | Diem cao nhat: {1}", score, high_score);
             }
