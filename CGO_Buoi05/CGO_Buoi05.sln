@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CGO_Buoi05", "CGO_Buoi05.cs
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai Tap sap xep giam dan", "..\Bai Tap sap xep giam dan\Bai Tap sap xep giam dan.csproj", "{00146458-51B8-461D-9854-019C367FB491}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CGO_Buoi05_ChuyenDoiNhietDo", "..\CGO_Buoi05_ChuyenDoiNhietDo\CGO_Buoi05_ChuyenDoiNhietDo.csproj", "{06CCAF06-453D-4026-95C4-EFC4BF35CC27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CGO_Buoi05_TimGiaTriNhoNhat", "..\CGO_Buoi05_TimGiaTriNhoNhat\CGO_Buoi05_TimGiaTriNhoNhat.csproj", "{EAF7E417-08C3-42CD-AAC6-979AA29AE3D4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{00146458-51B8-461D-9854-019C367FB491}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{00146458-51B8-461D-9854-019C367FB491}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{00146458-51B8-461D-9854-019C367FB491}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06CCAF06-453D-4026-95C4-EFC4BF35CC27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06CCAF06-453D-4026-95C4-EFC4BF35CC27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06CCAF06-453D-4026-95C4-EFC4BF35CC27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06CCAF06-453D-4026-95C4-EFC4BF35CC27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAF7E417-08C3-42CD-AAC6-979AA29AE3D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAF7E417-08C3-42CD-AAC6-979AA29AE3D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAF7E417-08C3-42CD-AAC6-979AA29AE3D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAF7E417-08C3-42CD-AAC6-979AA29AE3D4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

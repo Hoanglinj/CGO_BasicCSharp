@@ -1,0 +1,8 @@
+E:\GymCode\CGO_BasicCSharp\CGO_Buoi06_SnakeGame\bin\Debug\CGO_Buoi06_SnakeGame.exe.config
+E:\GymCode\CGO_BasicCSharp\CGO_Buoi06_SnakeGame\bin\Debug\CGO_Buoi06_SnakeGame.exe
+E:\GymCode\CGO_BasicCSharp\CGO_Buoi06_SnakeGame\bin\Debug\CGO_Buoi06_SnakeGame.pdb
+E:\GymCode\CGO_BasicCSharp\CGO_Buoi06_SnakeGame\obj\Debug\CGO_Buoi06_SnakeGame.csproj.AssemblyReference.cache
+E:\GymCode\CGO_BasicCSharp\CGO_Buoi06_SnakeGame\obj\Debug\CGO_Buoi06_SnakeGame.csproj.SuggestedBindingRedirects.cache
+E:\GymCode\CGO_BasicCSharp\CGO_Buoi06_SnakeGame\obj\Debug\CGO_Buoi06_SnakeGame.csproj.CoreCompileInputs.cache
+E:\GymCode\CGO_BasicCSharp\CGO_Buoi06_SnakeGame\obj\Debug\CGO_Buoi06_SnakeGame.exe
+E:\GymCode\CGO_BasicCSharp\CGO_Buoi06_SnakeGame\obj\Debug\CGO_Buoi06_SnakeGame.pdb
