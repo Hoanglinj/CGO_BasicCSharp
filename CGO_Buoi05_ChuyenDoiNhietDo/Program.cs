@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -39,7 +39,12 @@ namespace CGO_Buoi05_ChuyenDoiNhietDo
                         Environment.Exit(0);
                         break;
                 }
+<<<<<<< HEAD
             } while (choice != 0);
+=======
+            } 
+            while (choice != 0);
+>>>>>>> b94af0c2fd6445c6297bf61fff1e59e5a02e9e37
         }
 
         public static double CelsiusToFahrenheit(double celsius)
@@ -56,3 +61,7 @@ namespace CGO_Buoi05_ChuyenDoiNhietDo
     }
 }
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> b94af0c2fd6445c6297bf61fff1e59e5a02e9e37
