@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace CGO_Buoi09_AnimalVaInterfaceEdible
 {
-    internal class Fruit
+    public abstract class Fruit : Edible
     {
+        public abstract string HowToEat();
     }
 }

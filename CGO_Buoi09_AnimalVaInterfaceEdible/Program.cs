@@ -17,12 +17,19 @@ namespace CGO_Buoi09_AnimalVaInterfaceEdible
             foreach (Animal animal in animals)
             {
                 Console.WriteLine(animal.MakeSound());
+
                 if (animal is Chicken)
                 {
                     Edible edibler = (Chicken)animal;
                     Console.WriteLine(edibler.HowToEat());
                 }
-                Console.ReadKey();
+            }
+            Fruit[] fruits = new Fruit[2];
+            fruits[0] = new Orange();
+            fruits[1] = new Apple();
+            foreach (Fruit fruit in fruits)
+            {
+                Console.WriteLine(fruit.HowToEat());
             }
         }
     }

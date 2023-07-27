@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace CGO_Buoi09_AnimalVaInterfaceEdible
 {
-    internal class Apple
+    public class Apple : Fruit
     {
-    }
+        public override string HowToEat()
+        {
+            return "Apple could be slided";
+        }
+    }        
 }
